@@ -31,7 +31,7 @@ public class ChangeConfig {
         set.add(0.01);
         set.add(0.05);
         set.add(0.10);
-        set.add(0.205);
+        set.add(0.25);
         return set;
     }
 
